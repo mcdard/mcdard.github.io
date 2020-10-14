@@ -1,7 +1,6 @@
 # mcdard.github.io
 <!DOCTYPE html>
 <html>
-<title>Whiteout</title>
 <body>
 
 <h1><i>Whiteout</i></h1>
