@@ -1,17 +1,22 @@
 # mcdard.github.io
+
 <!DOCTYPE html>
 <html>
+<title>Redacted</title>
 <body>
 
-<h1><i>Whiteout</i></h1>
+<h1><i>Redacted</i></h1>
 
-<p><p style="font-size:20px">Made a <a href="redacted.html">mistake</a>?</p>
-<p><p style="font-size:20px">You can always white it out!</p>
-<p><p style="font-size:20px">With our special formula</p>
-<p><p style="font-size:20px">Your errors are as good as <a href="weatherreport.html">gone</a>.</p>
-<p><p style="font-size:20px">After all,</p>
-<p><p style="font-size:20px">If you can’t see something anymore</p>
-<p><p style="font-size:20px">Was it ever really there<a href="questions.html">?</a></p>
+<p><p style="font-size:20px"> <a href="weatherreport.html">Fact</a> check:</p>
+<p><p style="font-size:20px"> A number of dissenters mysteriously <a href="whiteout.html">disappeared</a> last night.</p>
+<p><p style="font-size:20px"> <b>FALSE</b></p>
+<p><p style="font-size:20px"> They are perfectly fine.</p>
+<p><p style="font-size:20px"> They are with their friends and loved ones.</p>
+<p><p style="font-size:20px"> You can ask them yourself if you wish. </p>
+<p><p style="font-size:20px"> They'll only say the same. </p>
+<p><p style="font-size:20px"><span style="color:white;"> After all,</p>
+<p><p style="font-size:20px"><span style="color:white;">they know better now.</p>
+<p><p style="font-size:20px"> Isn't that right<a href="questions.html">?</a></p>
 
 </body>
 </html>
